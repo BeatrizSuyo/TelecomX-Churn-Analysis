@@ -20,12 +20,6 @@ TelecomX-Churn-Analysis/
 └── README.md                              # Archivo con la descripción del proyecto y cómo ejecutarlo
 ```
 
-## 📁 Estructura del proyecto
-TelecomX-Churn-Analysis/
-├── TelecomX_AnalisisCancelaciones.ipynb   # Notebook principal con el análisis completo
-└── README.md                              # Archivo con la descripción del proyecto y cómo ejecutarlo
-
-
 ---
 
 ## 📌 Herramientas utilizadas
@@ -52,13 +46,13 @@ Ejemplo de gráfico:
 
 ---
 ## 📋 Instrucciones para ejecutar el notebook
-1. Abrí el archivo[TelecomX_Analisis_Evasion_Clientes.ipynb](TelecomX_Analisis_Evasion_Clientes.ipynb) directamente desde este repositorio.
-2. Hacé clic en el botón "Open in Colab" o subilo manualmente a [Google Colab](https://colab.research.google.com/).
-3. Verificá que tenés conexión a internet, ya que el notebook carga los datos desde una URL externa.
-4. Ejecutá cada celda en orden, desde el principio hasta el final.
-5. Podés modificar o extender el análisis según tus necesidades o para experimentar con nuevos enfoques.
+1. Abrir el archivo[TelecomX_Analisis_Evasion_Clientes.ipynb](TelecomX_Analisis_Evasion_Clientes.ipynb) directamente desde este repositorio.
+2. Hacer clic en el botón "Open in Colab" o subilo manualmente a [Google Colab](https://colab.research.google.com/).
+3. Verificar conexión a internet, ya que el notebook carga los datos desde una URL externa.
+4. Ejecuta cada celda en orden, desde el principio hasta el final.
+5. Puedes modificar o extender el análisis según tus necesidades o para experimentar con nuevos enfoques.
 
-> 💡 Recomendación: si hacés cambios importantes, guardá una copia del notebook en tu cuenta de Google Drive o hacé un fork del repositorio.
+> 💡 Recomendación: si haces cambios importantes, guarda una copia del notebook en tu cuenta de Google Drive o hacer un fork del repositorio.
 
 ---
 
