@@ -1,5 +1,4 @@
-# TelecomX-Churn-Analysis
-Análisis exploratorio de datos para reducir la tasa de cancelación de clientes en Telecom X.
+
 # 📊 Telecom X - Análisis de Cancelación de Clientes
 
 Este proyecto tiene como objetivo analizar los datos de clientes de la empresa ficticia **Telecom X**, con el fin de identificar patrones y factores que influyen en la cancelación de sus servicios. A través de técnicas de análisis exploratorio de datos (EDA), se busca generar insights útiles para reducir la tasa de churn (cancelación).
@@ -46,9 +45,7 @@ Ejemplo de gráfico:
 
 ---
 ## 📋 Instrucciones para ejecutar el notebook
-1.[TelecomX_Analisis_Evasion_Clientes.ipynb](TelecomX_Analisis_Evasion_Clientes.ipynb)
-
-1. Abrí el archivo [`Telecom_X_-_Análisis_de_Evasión_de_Clientes.ipynb`](Telecom_X_-_Análisis_de_Evasión_de_Clientes.ipynb) directamente desde este repositorio.
+1. Abrí el archivo[TelecomX_Analisis_Evasion_Clientes.ipynb](TelecomX_Analisis_Evasion_Clientes.ipynb) directamente desde este repositorio.
 2. Hacé clic en el botón "Open in Colab" o subilo manualmente a [Google Colab](https://colab.research.google.com/).
 3. Verificá que tenés conexión a internet, ya que el notebook carga los datos desde una URL externa.
 4. Ejecutá cada celda en orden, desde el principio hasta el final.
