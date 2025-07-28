@@ -47,16 +47,15 @@ Ejemplo de gráfico:
 ---
 ## 📋 Instrucciones para ejecutar el notebook
 
-1. Abrí el archivo [`Telecom X – Análisis de Evasión de Clientes.ipynb`](https://github.com/BeatrizSuyo/TelecomX-Churn-Analysis/blob/main/Telecom%20X%20%E2%80%93%20An%C3%A1lisis%20de%20Evasi%C3%B3n%20de%20Clientes.ipynb) en Google Colab o Jupyter.
-2. Asegurate de tener conexión a internet, ya que el archivo carga datos desde una URL externa.
-3. Ejecutá cada celda en orden desde el inicio hasta el final.
-4. Podés modificar o extender el análisis según tus necesidades.
 ## 📋 Instrucciones para ejecutar el notebook
 
-1. Abrí el archivo [`Telecom X – Análisis de Evasión de Clientes.ipynb`](./Telecom%20X%20%E2%80%93%20An%C3%A1lisis%20de%20Evasi%C3%B3n%20de%20Clientes.ipynb) directamente en Google Colab (clic derecho → "Abrir con Colab").
-2. Asegurate de tener conexión a internet, ya que el notebook carga los datos desde una URL externa.
-3. Ejecutá cada celda en orden desde el principio hasta el final.
-4. Si lo deseás, podés modificar o extender el análisis para nuevos casos o datasets.
+1. Abrí el archivo [`Telecom_X_-_Análisis_de_Evasión_de_Clientes.ipynb`](Telecom_X_-_Análisis_de_Evasión_de_Clientes.ipynb) directamente desde este repositorio.
+2. Hacé clic en el botón "Open in Colab" o subilo manualmente a [Google Colab](https://colab.research.google.com/).
+3. Verificá que tenés conexión a internet, ya que el notebook carga los datos desde una URL externa.
+4. Ejecutá cada celda en orden, desde el principio hasta el final.
+5. Podés modificar o extender el análisis según tus necesidades o para experimentar con nuevos enfoques.
+
+> 💡 Recomendación: si hacés cambios importantes, guardá una copia del notebook en tu cuenta de Google Drive o hacé un fork del repositorio.
 
 ---
 
