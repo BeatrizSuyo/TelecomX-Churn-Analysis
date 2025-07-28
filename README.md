@@ -30,6 +30,11 @@ TelecomX-Churn-Analysis/
 - **Google Colab** para desarrollo en la nube
 
 ---
+### 📊 Ejemplo de gráfico:
+
+Gráfico de contratos vs cancelaciones:
+
+![Gráfico de contratos vs cancelaciones](imagenes/grafico_cancelaciones.png)
 
 ## 📈 Ejemplos de análisis y gráficos
 
