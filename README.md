@@ -30,11 +30,6 @@ TelecomX-Churn-Analysis/
 - **Google Colab** para desarrollo en la nube
 
 ---
-### 📊 Ejemplo de gráfico:
-
-Gráfico de contratos vs cancelaciones:
-
-![Gráfico de contratos vs cancelaciones](imagenes/grafico_cancelaciones.png)
 
 ## 📈 Ejemplos de análisis y gráficos
 
@@ -45,9 +40,11 @@ Gráfico de contratos vs cancelaciones:
 - Formas de pago:
   - Quienes pagan con tarjeta de crédito presentan menor cancelación.
 
-Ejemplo de gráfico:
+### 📊 Ejemplo de gráfico:  
+Gráfico de contratos vs cancelaciones:
 
-![Gráfico de contratos vs cancelaciones](inserta_aquí_la_URL_si_subes_imágenes)
+![Gráfico de contratos vs cancelaciones](imagenes/grafico_cancelaciones.png)
+
 
 ---
 ## 📋 Instrucciones para ejecutar el notebook
