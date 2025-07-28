@@ -46,8 +46,7 @@ Ejemplo de gráfico:
 
 ---
 ## 📋 Instrucciones para ejecutar el notebook
-
-## 📋 Instrucciones para ejecutar el notebook
+1.[TelecomX_Analisis_Evasion_Clientes.ipynb](TelecomX_Analisis_Evasion_Clientes.ipynb)
 
 1. Abrí el archivo [`Telecom_X_-_Análisis_de_Evasión_de_Clientes.ipynb`](Telecom_X_-_Análisis_de_Evasión_de_Clientes.ipynb) directamente desde este repositorio.
 2. Hacé clic en el botón "Open in Colab" o subilo manualmente a [Google Colab](https://colab.research.google.com/).
