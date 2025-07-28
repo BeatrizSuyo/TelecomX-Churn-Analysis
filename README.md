@@ -45,13 +45,12 @@ Ejemplo de gráfico:
 ![Gráfico de contratos vs cancelaciones](inserta_aquí_la_URL_si_subes_imágenes)
 
 ---
-
 ## 📋 Instrucciones para ejecutar el notebook
 
-1. Abrí el archivo [`Telecom_X_–_Análisis_de_Evasión_de_Clientes.ipynb`](TelecomX–Análisis-de-Evasión-de-Clientes) en Google Colab.
-2. Asegurate de tener conexión a internet, ya que el archivo carga datos desde una URL externa.
-3. Ejecutá cada celda en orden desde la parte superior hasta el final.
-4. Podés modificar o extender el análisis según tus necesidades.
+1. Abrí el archivo [`Telecom X – Análisis de Evasión de Clientes.ipynb`](./Telecom%20X%20%E2%80%93%20An%C3%A1lisis%20de%20Evasi%C3%B3n%20de%20Clientes.ipynb) directamente en Google Colab (clic derecho → "Abrir con Colab").
+2. Asegurate de tener conexión a internet, ya que el notebook carga los datos desde una URL externa.
+3. Ejecutá cada celda en orden desde el principio hasta el final.
+4. Si lo deseás, podés modificar o extender el análisis para nuevos casos o datasets.
 
 ---
 
