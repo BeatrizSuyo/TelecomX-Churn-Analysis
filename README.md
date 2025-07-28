@@ -1,5 +1,5 @@
 
-# 📊 Telecom X - Análisis de Cancelación de Clientes
+# 📊 Telecom X - Análisis de Evasion de Clientes
 
 Este proyecto tiene como objetivo analizar los datos de clientes de la empresa ficticia **Telecom X**, con el fin de identificar patrones y factores que influyen en la cancelación de sus servicios. A través de técnicas de análisis exploratorio de datos (EDA), se busca generar insights útiles para reducir la tasa de churn (cancelación).
 
@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo analizar los datos de clientes de la empresa f
 
 ```
 TelecomX-Churn-Analysis/
-├── TelecomX_AnalisisCancelaciones.ipynb   # Notebook principal con el análisis completo  
+├── TelecomX_Analisis_Evasion_Clientes.ipynb   # Notebook principal con el análisis completo  
 └── README.md                              # Archivo con la descripción del proyecto y cómo ejecutarlo
 ```
 
