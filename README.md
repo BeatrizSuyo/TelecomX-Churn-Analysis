@@ -48,7 +48,7 @@ Ejemplo de gráfico:
 
 ## 📋 Instrucciones para ejecutar el notebook
 
-1. Abrí el archivo [`TelecomX_AnalisisCancelaciones.ipynb`](TelecomX_AnalisisCancelaciones.ipynb) en Google Colab.
+1. Abrí el archivo [`Telecom_X_–_Análisis_de_Evasión_de_Clientes`](TelecomX_AnalisisdeEvacionDeClientes.ipynb) en Google Colab.
 2. Asegurate de tener conexión a internet, ya que el archivo carga datos desde una URL externa.
 3. Ejecutá cada celda en orden desde la parte superior hasta el final.
 4. Podés modificar o extender el análisis según tus necesidades.
