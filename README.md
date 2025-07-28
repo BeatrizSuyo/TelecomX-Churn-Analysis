@@ -70,7 +70,7 @@ Ejemplo de gráfico:
 
 ## 👩‍💻 Autora
 
-**Beatriz [GitHub: @BeatrizSuyo]**  
+**Beatriz [https://github.com/BeatrizSuyo]**  
 Desarrolladora web y estudiante de análisis de datos  
 Este proyecto fue desarrollado como parte del desafío de análisis de datos de Alura Latam.
 
