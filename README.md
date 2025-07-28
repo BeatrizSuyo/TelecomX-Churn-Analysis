@@ -12,15 +12,19 @@ Este proyecto tiene como objetivo analizar los datos de clientes de la empresa f
 - Proponer posibles estrategias basadas en datos para mejorar la retención de clientes.
 
 ---
+## 📁 Estructura del proyecto
+
+```
+TelecomX-Churn-Analysis/
+├── TelecomX_AnalisisCancelaciones.ipynb   # Notebook principal con el análisis completo  
+└── README.md                              # Archivo con la descripción del proyecto y cómo ejecutarlo
+```
 
 ## 📁 Estructura del proyecto
 TelecomX-Churn-Analysis/
 ├── TelecomX_AnalisisCancelaciones.ipynb   # Notebook principal con el análisis completo
 └── README.md                              # Archivo con la descripción del proyecto y cómo ejecutarlo
 
-TelecomX-Churn-Analysis/
-├── TelecomX_AnalisisCancelaciones.ipynb # Notebook principal con el análisis completo
-├── README.md # Este archivo con información del proyecto
 
 ---
 
